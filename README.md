@@ -45,5 +45,5 @@ To show my ability for design and start getting familiar with coding and some of
  My Future projects will be in English from the get go.
 
 ## Deploy
- https://cheerful-vacherin-bebe41.netlify.app/
+ https://developerfrontend.netlify.app/
 
