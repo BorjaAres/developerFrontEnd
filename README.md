@@ -33,7 +33,7 @@ This webpage is built using HTML and CSS. The HTML file defines the structure an
  Lorem Ipsum,
  Google Fonts,
  CSSmatic,
- Box Model,
+ Box Model snippet,
  Responsively
 
 ## Goal
