@@ -1,4 +1,4 @@
-#Simple Front-end Webpage
+#Front-end Webpage
 
 This is a simple front-end webpage built using HTML and CSS. It serves as a basic template for a static webpage with a clean and minimalistic design.
 Features
