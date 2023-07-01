@@ -33,7 +33,7 @@ This webpage is built using HTML and CSS. The HTML file defines the structure an
  Lorem Ipsum,
  Google Fonts,
  CSSmatic,
- Box Model snippet,
+ Box Model,
  Responsively
 
 ## Goal
@@ -45,3 +45,4 @@ To show my ability for design and start getting familiar with coding and some of
 
 ## Deploy
  https://cheerful-vacherin-bebe41.netlify.app/
+
