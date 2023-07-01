@@ -1,7 +1,8 @@
 # Front-end Webpage
 
 This is a simple front-end webpage built using HTML and CSS. It serves as a basic template for a static webpage with a clean and minimalistic design.
-Features
+
+## Features
 
     Clean and minimalistic design.
     Responsive layout for various screen sizes.
@@ -9,7 +10,7 @@ Features
 
 ## Usage 
 
-    Clone the repository: git clone https://github.com/your-username/your-repo.git
+    Clone the repository: git clone https://github.com/BorjaAres/MyFirstWeb.git
     Navigate to the project directory: cd your-repo
     Open the index.html file in a web browser.
     Customize the content and styling of the webpage as needed.
