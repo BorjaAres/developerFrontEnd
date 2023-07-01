@@ -7,7 +7,7 @@ Features
     Responsive layout for various screen sizes.
     Easy to customize and modify for specific content and requirements.
 
-##Usage
+##Usage 
 
     Clone the repository: git clone https://github.com/your-username/your-repo.git
     Navigate to the project directory: cd your-repo
